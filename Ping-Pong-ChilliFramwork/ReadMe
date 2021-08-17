@@ -1,0 +1,3 @@
+Hello, this is my Ping-Pong made using Chilli Framework for Game Development. 
+Perhaps the game dynamic isn't so close to the original Ping Pong, I did my best to create one close to the original "Ping Pong".
+Instead of showing the score, I chosed to color the bar which has the most points, or, if the score is equal, they will have the same color.
